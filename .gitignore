@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/netplt
+netplt.so
+netplt.dylib
+netplt.dll
+netplt.a
+netplt.lib
+netplt-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
